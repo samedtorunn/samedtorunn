@@ -2,7 +2,7 @@
 
 Here is some info about me:
 
-- 🔭 I’m currently the cofounder of <b>OthersApp</b> and a software engineering ms student at <b>Bogazici University</b>
+- 🔭 I’m currently the cofounder of <b><a href="https://www.othersapp.com">OthersApp</a></b> and a software engineering ms student at <b>Bogazici University</b>
 - 🌱 I’m currently learning Swift, Solidity & Javascript
 - ⚡ Fun fact: Like tomatoes too much. 🍅
 
