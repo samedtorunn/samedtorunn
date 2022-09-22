@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a cofounder @ OthersApp and software engineering ms student @ Bogazici University
+- 🔭 I’m currently the cofounder of <b>OthersApp</b> and a software engineering ms student at <b>Bogazici University</b>
 - 🌱 I’m currently learning Swift, Solidity & Javascript
 - ⚡ Fun fact: Like tomatoes too much. 🍅
 
