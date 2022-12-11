@@ -11,5 +11,8 @@ Here is some info about me:
 <a href="https://www.linkedin.com/in/samed-torun-19657ab1/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="samed torun" height="30" width="30" /></a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?samedtoruunn=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
